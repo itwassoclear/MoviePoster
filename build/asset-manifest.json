@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MoviePoster/static/css/main.fee24045.chunk.css",
+    "main.js": "/MoviePoster/static/js/main.d504c338.chunk.js",
+    "main.js.map": "/MoviePoster/static/js/main.d504c338.chunk.js.map",
+    "runtime-main.js": "/MoviePoster/static/js/runtime-main.f1be7b64.js",
+    "runtime-main.js.map": "/MoviePoster/static/js/runtime-main.f1be7b64.js.map",
+    "static/css/2.591cabfe.chunk.css": "/MoviePoster/static/css/2.591cabfe.chunk.css",
+    "static/js/2.5a16f98c.chunk.js": "/MoviePoster/static/js/2.5a16f98c.chunk.js",
+    "static/js/2.5a16f98c.chunk.js.map": "/MoviePoster/static/js/2.5a16f98c.chunk.js.map",
+    "index.html": "/MoviePoster/index.html",
+    "precache-manifest.642545425029c3ff0ad09c273c8248e5.js": "/MoviePoster/precache-manifest.642545425029c3ff0ad09c273c8248e5.js",
+    "service-worker.js": "/MoviePoster/service-worker.js",
+    "static/css/2.591cabfe.chunk.css.map": "/MoviePoster/static/css/2.591cabfe.chunk.css.map",
+    "static/css/main.fee24045.chunk.css.map": "/MoviePoster/static/css/main.fee24045.chunk.css.map",
+    "static/js/2.5a16f98c.chunk.js.LICENSE.txt": "/MoviePoster/static/js/2.5a16f98c.chunk.js.LICENSE.txt",
+    "static/media/init.css": "/MoviePoster/static/media/telegram-logo.601a8769.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1be7b64.js",
+    "static/css/2.591cabfe.chunk.css",
+    "static/js/2.5a16f98c.chunk.js",
+    "static/css/main.fee24045.chunk.css",
+    "static/js/main.d504c338.chunk.js"
+  ]
+}
